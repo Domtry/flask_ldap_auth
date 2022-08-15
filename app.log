@@ -1,0 +1,179 @@
+[2022-08-15 20:58:13,625]> werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.8.102:5000
+[2022-08-15 20:58:13,625]> werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2022-08-15 20:58:13,627]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 20:58:14,201]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 20:58:14,206]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 20:59:53,584]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\__init__.py', reloading
+[2022-08-15 20:59:53,676]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:00:35,211]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:02:10,263]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:02:20,572]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:02:21,164]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:02:21,164]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:03:16,105]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\__init__.py', reloading
+[2022-08-15 21:03:16,212]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:03:17,553]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:03:17,565]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:03:24,929]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\__init__.py', reloading
+[2022-08-15 21:03:25,089]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:03:26,063]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:03:26,067]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:06:13,864]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\ldap_handler.py', reloading
+[2022-08-15 21:06:13,944]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:06:14,506]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:06:14,510]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:06:47,857]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\ldap_handler.py', reloading
+[2022-08-15 21:06:47,939]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:06:48,785]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:06:48,790]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:07:02,355]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\__init__.py', reloading
+[2022-08-15 21:07:02,445]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:07:03,025]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:07:03,029]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:08:26,573]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\ldap_handler.py', reloading
+[2022-08-15 21:08:26,677]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:08:27,141]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:08:27,149]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:09:26,857]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\ldap_handler.py', reloading
+[2022-08-15 21:09:26,924]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:09:27,379]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:09:27,383]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:09:38,691]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\ldap_handler.py', reloading
+[2022-08-15 21:09:38,755]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:09:39,275]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:09:39,280]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:10:12,255]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\__init__.py', reloading
+[2022-08-15 21:10:12,327]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:10:12,970]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:10:12,974]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:11:10,344]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\api.py', reloading
+[2022-08-15 21:11:10,430]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:11:11,053]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:11:11,061]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:11:23,626]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\api.py', reloading
+[2022-08-15 21:11:23,704]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:11:24,319]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:11:24,323]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:11:48,316]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\api.py', reloading
+[2022-08-15 21:11:48,405]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:11:49,010]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:11:49,014]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:11:54,218]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\__init__.py', reloading
+[2022-08-15 21:11:54,308]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:11:54,873]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:11:54,873]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:12:03,945]> werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.8.102:5000
+[2022-08-15 21:12:03,945]> werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2022-08-15 21:12:03,952]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:12:04,551]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:12:04,556]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:16:05,813]> werkzeug - INFO - 127.0.0.1 - - [15/Aug/2022 21:16:05] "[33mPOST /search HTTP/1.1[0m" 404 -
+[2022-08-15 21:16:37,773]> werkzeug - INFO - 127.0.0.1 - - [15/Aug/2022 21:16:37] "[33mPOST /search HTTP/1.1[0m" 404 -
+[2022-08-15 21:17:01,054]> werkzeug - INFO - 127.0.0.1 - - [15/Aug/2022 21:17:01] "[35m[1mPOST /api/v1/search HTTP/1.1[0m" 500 -
+[2022-08-15 21:18:16,972]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\ldap_handler.py', reloading
+[2022-08-15 21:18:17,290]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:18:18,976]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:18:19,023]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:18:37,140]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\ldap_handler.py', reloading
+[2022-08-15 21:18:37,273]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:18:38,683]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:18:38,691]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:18:43,573]> werkzeug - INFO - 127.0.0.1 - - [15/Aug/2022 21:18:43] "[35m[1mPOST /api/v1/search HTTP/1.1[0m" 500 -
+[2022-08-15 21:19:12,936]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\ldap_handler.py', reloading
+[2022-08-15 21:19:13,112]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:19:14,775]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:19:14,783]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:19:18,928]> werkzeug - INFO - 127.0.0.1 - - [15/Aug/2022 21:19:18] "[35m[1mPOST /api/v1/search HTTP/1.1[0m" 500 -
+[2022-08-15 21:22:32,001]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\ldap_handler.py', reloading
+[2022-08-15 21:22:32,141]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:22:33,780]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:22:33,800]> werkzeug - INFO -  * Debugger PIN: 742-397-530
+[2022-08-15 21:24:33,036]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\ldap_handler.py', reloading
+[2022-08-15 21:24:33,181]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:24:34,303]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:24:34,368]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:24:40,848]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\ldap_handler.py', reloading
+[2022-08-15 21:24:40,968]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:24:42,193]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:24:42,229]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:24:48,154]> werkzeug - INFO - 127.0.0.1 - - [15/Aug/2022 21:24:48] "[35m[1mPOST /api/v1/search HTTP/1.1[0m" 500 -
+[2022-08-15 21:25:12,859]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\ldap_handler.py', reloading
+[2022-08-15 21:25:13,070]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:25:14,236]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:25:14,271]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:25:17,647]> werkzeug - INFO - 127.0.0.1 - - [15/Aug/2022 21:25:17] "[35m[1mPOST /api/v1/search HTTP/1.1[0m" 500 -
+[2022-08-15 21:25:51,071]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\ldap_handler.py', reloading
+[2022-08-15 21:25:51,201]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:25:52,296]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:25:52,306]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:28:36,718]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\api.py', reloading
+[2022-08-15 21:28:36,902]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:28:39,150]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:28:39,158]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:28:46,744]> werkzeug - INFO - 127.0.0.1 - - [15/Aug/2022 21:28:46] "[35m[1mPOST /api/v1/ldap/search HTTP/1.1[0m" 500 -
+[2022-08-15 21:28:56,111]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\api.py', reloading
+[2022-08-15 21:28:56,283]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:28:57,729]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:28:57,736]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:29:04,065]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\api.py', reloading
+[2022-08-15 21:29:04,174]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:29:05,173]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:29:05,181]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:29:16,321]> werkzeug - INFO - 127.0.0.1 - - [15/Aug/2022 21:29:16] "[33mPOST /api/v1/auth/search HTTP/1.1[0m" 404 -
+[2022-08-15 21:29:28,094]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\api.py', reloading
+[2022-08-15 21:29:28,220]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:29:29,331]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:29:29,339]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:29:56,467]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\api.py', reloading
+[2022-08-15 21:29:56,709]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:29:57,681]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:29:57,685]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:37:15,335]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\ldap_handler.py', reloading
+[2022-08-15 21:37:15,562]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:37:17,370]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:37:17,410]> werkzeug - INFO -  * Debugger PIN: 742-397-530
+[2022-08-15 21:46:18,647]> werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.8.102:5000
+[2022-08-15 21:46:18,647]> werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2022-08-15 21:46:18,650]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:46:19,519]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:46:19,534]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:46:23,344]> werkzeug - INFO - 127.0.0.1 - - [15/Aug/2022 21:46:23] "[35m[1mPOST /api/v1/auth/search HTTP/1.1[0m" 500 -
+[2022-08-15 21:47:46,803]> werkzeug - INFO - 127.0.0.1 - - [15/Aug/2022 21:47:46] "[35m[1mPOST /api/v1/auth/search HTTP/1.1[0m" 500 -
+[2022-08-15 21:49:22,080]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\ldap_handler.py', reloading
+[2022-08-15 21:49:22,248]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:49:23,872]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:49:23,887]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:49:29,398]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\api.py', reloading
+[2022-08-15 21:49:29,602]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:49:31,057]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:49:31,067]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:49:37,543]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\ldap_handler.py', reloading
+[2022-08-15 21:49:37,732]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:49:39,357]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:49:39,366]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:49:41,830]> werkzeug - INFO - 127.0.0.1 - - [15/Aug/2022 21:49:41] "POST /api/v1/auth/search HTTP/1.1" 200 -
+[2022-08-15 21:50:41,301]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\__init__.py', reloading
+[2022-08-15 21:50:41,616]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:50:42,959]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:50:49,889]> werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.8.102:5000
+[2022-08-15 21:50:49,890]> werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2022-08-15 21:50:49,910]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:50:51,222]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:50:51,226]> werkzeug - INFO -  * Debugger PIN: 192-555-806
+[2022-08-15 21:50:55,045]> werkzeug - INFO - 127.0.0.1 - - [15/Aug/2022 21:50:55] "POST /api/v1/auth/search HTTP/1.1" 200 -
+[2022-08-15 21:51:54,113]> werkzeug - INFO -  * Detected change in 'D:\\backend\\test_projects\\flask_ldap_auth\\src\\ldap_handler.py', reloading
+[2022-08-15 21:51:54,242]> werkzeug - INFO -  * Restarting with stat
+[2022-08-15 21:51:55,110]> werkzeug - WARNING -  * Debugger is active!
+[2022-08-15 21:51:55,114]> werkzeug - INFO -  * Debugger PIN: 192-555-806
